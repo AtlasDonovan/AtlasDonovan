@@ -4,7 +4,7 @@
 
 * On the journey as a Second Year CS student
 
-![banner](https://github.com/AtlasDonovan/AtlasDonovan/assets/94772414/644053df-51e8-4534-9326-75683316603b)
+![Untitled design](https://github.com/AtlasDonovan/AtlasDonovan/assets/94772414/3a35dd09-ea30-485c-88a8-cf6b2a412ff6)
 
 ## Languages & Tools
 <p align="center">
