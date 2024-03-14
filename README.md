@@ -26,5 +26,5 @@
 </p>
 
 ## Contact
-* Discord : ```drejbrando```
+* Discord : ```gx.drejbrando```
 * email : ```not available```
